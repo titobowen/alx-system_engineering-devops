@@ -1,1 +1,1 @@
-all files
+remove betty
